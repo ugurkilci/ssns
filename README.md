@@ -1,2 +1,2 @@
 # ssns
-dandik proje, sakın kurmayın
+Simple Social Network Site
